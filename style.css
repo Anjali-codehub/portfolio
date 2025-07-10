@@ -406,8 +406,8 @@ footer{
     animation: javascript 3s;
 }
 
-.python {
-    width: 80%;
+.Python {
+    width: 85%;
     animation: python 3s;
 }
 
@@ -490,7 +490,7 @@ footer{
         width: 0%;
     }
     100% {
-        width: 10%;
+        width: 82%;
     }
 }
 
