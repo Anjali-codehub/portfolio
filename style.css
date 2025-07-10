@@ -458,12 +458,12 @@ footer{
     }
 }
 
-@keyframes php {
+@keyframes python {
     0% {
         width: 0%;
     }
     100% {
-        width: 54%;
+        width: 85%;
     }
 }
 
